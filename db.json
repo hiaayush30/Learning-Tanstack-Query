@@ -1,14 +1,29 @@
 {
-    "posts": [
-        {
-            "id": "1",
-            "title": "a title",
-            "views": 100
-        },
-        {
-            "id": "2",
-            "title": "another title",
-            "views": 200
-        }
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "6.382464836854343",
+      "title": "yo",
+      "views": 500
+    },
+    {
+      "id": "3.5890199644491694",
+      "title": "egbreg",
+      "views": 500
+    },
+    {
+      "id": "0.786211924454252",
+      "title": "qwerty",
+      "views": 500
+    }
+  ]
 }
